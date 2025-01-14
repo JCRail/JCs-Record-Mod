@@ -39,7 +39,7 @@ public class MusicDiscs extends ItemRecord
     @Override
 
     public void registerIcons(IIconRegister iconRegister) {
-        this.itemIcon = iconRegister.registerIcon(JCRec.MODID.toLowerCase() + ":disc_allaboardamtrak");
+        this.itemIcon = iconRegister.registerIcon(JCRec.MODID.toLowerCase() + ":disc_aaa");
     }
 
 
