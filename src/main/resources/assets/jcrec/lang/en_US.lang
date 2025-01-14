@@ -1,7 +1,9 @@
 
 ## Record Label Names ##
 
-item.jcrec:disc_aaa.name=All Aboard Amtrak - Amtrak 1983
-item.record.disc_aaa.desc=Helo
+item.jcrec:disc_aaa.name=All Aboard Amtrak Disc
+item.record.disc_aaa.desc=All Aboard Amtrak - Amtrak 1983
+item.jcrec:disc_hipsquare.name=Hip To Be Square Disc
+item.record.disc_hipsquare.desc=Hip To Be Square  - Huey Lewis & The News
 item.jcrec:disc_seaboard.name=Seaboard Line Boogie Disc
 item.record.disc_seaboard.desc=Seaboard Line Boogie - Paul Revere & The Raiders

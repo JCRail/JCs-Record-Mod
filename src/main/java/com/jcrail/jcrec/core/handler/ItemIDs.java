@@ -6,6 +6,7 @@ public enum ItemIDs {
 
     //itemClassName: Name of class.java file    iconName: Name of icon    itemName: Name of item internally in game.
     disc_aaa("disc_aaa", "disc_aaa", "disc_aaa"),
+    disc_hipsquare("disc_hipsquare", "disc_hipsquare", "disc_hipsquare"),
     disc_seaboard("disc_seaboard", "disc_seaboard", "disc_seaboard"),
     ;
 

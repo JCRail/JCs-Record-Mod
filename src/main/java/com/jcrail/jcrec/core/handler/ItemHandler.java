@@ -9,6 +9,7 @@ public class ItemHandler {
     public static void initItemRegister(){
 
         ItemIDs.disc_aaa.item = new disc_aaa("disc_aaa");
+        ItemIDs.disc_hipsquare.item = new disc_hipsquare("disc_hipsquare");
         ItemIDs.disc_seaboard.item = new disc_seaboard("disc_seaboard");
 
 
