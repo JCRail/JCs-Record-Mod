@@ -1,3 +1,4 @@
 {
-  "records.disc_aaa": {"category": "master", "sounds": [{"name": "disc_aaa","stream": true}]}
+  "records.disc_aaa": {"category": "master", "sounds": [{"name": "disc_aaa","stream": true}]},
+  "records.disc_seaboard": {"category": "master", "sounds": [{"name": "disc_seaboard","stream": true}]}
 }
