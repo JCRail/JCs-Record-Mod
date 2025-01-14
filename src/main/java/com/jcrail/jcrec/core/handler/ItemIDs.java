@@ -4,8 +4,10 @@ import net.minecraft.item.Item;
 
 public enum ItemIDs {
 
-    //itemClassName: Name of class.java file    iconName: Name of icon    itemName: Name of item internally in game.
+    //itemClassName: Name of class.java file    iconName: Name of icon    itemName: Name of item internally.
+
     disc_aaa("disc_aaa", "disc_aaa", "disc_aaa"),
+    disc_electric("disc_electric", "disc_electric", "disc_electric"),
     disc_hipsquare("disc_hipsquare", "disc_hipsquare", "disc_hipsquare"),
     disc_seaboard("disc_seaboard", "disc_seaboard", "disc_seaboard"),
     ;
