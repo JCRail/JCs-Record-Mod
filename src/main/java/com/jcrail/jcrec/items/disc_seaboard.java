@@ -12,7 +12,7 @@ public class disc_seaboard extends ItemRecord {
         super(par0Str);
         setMaxStackSize(1);
         setUnlocalizedName("disc_seaboard");
-        setCreativeTab(JCRec.jcrecCreativeTab);
+        setCreativeTab(JCRec.jcrecCreativeRailroad);
     }
 
     //Icon Code

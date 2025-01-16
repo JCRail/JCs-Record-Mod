@@ -12,7 +12,7 @@ public class disc_aaa extends ItemRecord {
         super(par0Str);
         setMaxStackSize(1);
         setUnlocalizedName("disc_aaa");
-        setCreativeTab(JCRec.jcrecCreativeTab);
+        setCreativeTab(JCRec.jcrecCreativeRailroad);
     }
 
     //Icon Code
