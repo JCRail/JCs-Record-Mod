@@ -1,5 +1,6 @@
 package com.jcrail.jcrec.core.handler;
 
+import com.jcrail.jcrec.BaseItemRecordClass;
 import com.jcrail.jcrec.JCRec;
 import com.jcrail.jcrec.items.*;
 import cpw.mods.fml.common.registry.GameRegistry;
@@ -8,8 +9,8 @@ public class ItemHandler {
 
     public static void initItemRegister(){
         
-        ItemIDs.disc_aaa.item = new disc_aaa("disc_aaa");
-        ItemIDs.disc_acbg.item = new disc_acbg("disc_acbg");
+        ItemIDs.disc_aaa.item = new BaseItemRecordClass("disc_aaa", JCRec.jcrecCreativeRailroad);
+        ItemIDs.disc_acbg.item = new BaseItemRecordClass("disc_acbg", JCRec.jcrecCreativeTab);
         ItemIDs.disc_akwts.item = new disc_akwts("disc_akwts");
         ItemIDs.disc_alb.item = new disc_alb("disc_alb");
         ItemIDs.disc_alfat.item = new disc_alfat("disc_alfat");
