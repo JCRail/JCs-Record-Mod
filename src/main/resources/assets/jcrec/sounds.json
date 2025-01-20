@@ -37,7 +37,7 @@
   "records.disc_fireflame": {"category": "master", "sounds": [{"name": "disc_fireflame","stream": true}]},
   "records.disc_freebird": {"category": "master", "sounds": [{"name": "disc_freebird","stream": true}]},
   "records.disc_funkytown": {"category": "master", "sounds": [{"name": "disc_funkytown","stream": true}]},
-  "records.disc_gangnman": {"category": "master", "sounds": [{"name": "disc_gangnman","stream": true}]},
+  "records.disc_gangnam": {"category": "master", "sounds": [{"name": "disc_gangnam","stream": true}]},
   "records.disc_highwayhell": {"category": "master", "sounds": [{"name": "disc_highwayhell","stream": true}]},
   "records.disc_hipsquare": {"category": "master", "sounds": [{"name": "disc_hipsquare","stream": true}]},
   "records.disc_hungrywolf": {"category": "master", "sounds": [{"name": "disc_hungrywolf","stream": true}]},
