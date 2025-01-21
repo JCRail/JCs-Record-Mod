@@ -1,7 +1,6 @@
 
 ## THE TRACKS  ##
 #item.jcrec#
-item.jcrec:disc_stridebreak.name=Break My Stride Disc
 item.jcrec:disc_99english.name=99 Red Balloons Disc
 item.jcrec:disc_99german.name=99 Luftballons Disc
 item.jcrec:disc_acbg.name=Cherry Blossom Girl Disc
@@ -24,6 +23,7 @@ item.jcrec:disc_blue.name=Blue (Da Ba Dee) Disc
 item.jcrec:disc_bohemrhap.name=Bohemian Rhapsody Disc
 item.jcrec:disc_boogiewonder.name=Boogie Wonderland Disc
 item.jcrec:disc_builtcity.name=We Built This City Disc
+item.jcrec:disc_buring4u.name=Burnin' For You Disc
 item.jcrec:disc_ccm.name=Cold Cold Man Disc
 item.jcrec:disc_dangerzone.name=Danger Zone Disc
 item.jcrec:disc_devilgeorgia.name=The Devil Went Down To Georgia Disc
@@ -77,6 +77,7 @@ item.jcrec:disc_soundsilence.name=The Sound Of Silence Disc
 item.jcrec:disc_startfire.name=We Didn't Start The Fire Disc
 item.jcrec:disc_stayalive.name=Stayin' Alive Disc
 item.jcrec:disc_stillstanding.name=I'm Still Standing Disc
+item.jcrec:disc_stridebreak.name=Break My Stride Disc
 item.jcrec:disc_sunglasses.name=Sunglasses At Night Disc
 item.jcrec:disc_sweetalabama.name=Sweet Home Alabama Disc
 item.jcrec:disc_sweetcaroline.name=Sweet Caroline Disc
@@ -86,15 +87,15 @@ item.jcrec:disc_thriller.name=Thriller Disc
 item.jcrec:disc_thunderstruck.name=Thunderstruck Disc
 item.jcrec:disc_tomsawyer.name=Tom Sawyer Disc
 item.jcrec:disc_walksunshine.name=Walking On Sunshine Disc
-item.jcrec:disc_whatineed.name=Just What I Needed Disc
 item.jcrec:disc_waywardson.name=Carry On My Wayward Son Disc
+item.jcrec:disc_whatineed.name=Just What I Needed Disc
 item.jcrec:disc_whatislove.name=What Is Love Disc
 item.jcrec:disc_wheelsky.name=Wheel In The Sky Disc
 item.jcrec:disc_whobenow.name=Who Can It Be Now Disc
 item.jcrec:disc_youarepirate.name=You Are A Pirate Disc
 
 #item.record#
-item.record.disc_99english.desc=99 Red Balloons  - Nena
+item.record.disc_99english.desc=99 Red Balloons - Nena
 item.record.disc_99german.desc=99 Luftballons  - Nena
 item.record.disc_acbg.desc=Cherry Blossom Girl - Air
 item.record.disc_aibomb.desc=Artificial Intelligence Bomb - Naruto
@@ -116,6 +117,7 @@ item.record.disc_blue.desc=Blue (Da Ba Dee) - Eiffel 65
 item.record.disc_bohemrhap.desc=Bohemian Rhapsody - Queen
 item.record.disc_boogiewonder.desc=Boogie Wonderland - Earth, Wind & Fire And The Emotions
 item.record.disc_builtcity.desc=We Built This City - Starship
+item.record.disc_buring4u.desc=Burnin' For You - Blue Oyster Cult
 item.record.disc_ccm.desc=Cold Cold Man - Saint Motel
 item.record.disc_dangerzone.desc=Danger Zone - Kenny Loggins
 item.record.disc_devilgeorgia.desc=The Devil Went Down To Georgia - Charlie Daniels
