@@ -31,6 +31,7 @@ public enum ItemIDs {
     disc_bohemrhap("disc_bohemrhap", "disc_bohemrhap", "disc_bohemrhap"),
     disc_boogiewonder("disc_boogiewonder", "disc_boogiewonder", "disc_boogiewonder"),
     disc_builtcity("disc_builtcity", "disc_builtcity", "disc_builtcity"),
+    disc_buring4u("disc_buring4u", "disc_buring4u", "disc_buring4u"),
     disc_buttsecks("disc_buttsecks", "disc_buttsecks", "disc_buttsecks"),
     disc_ccm("disc_ccm", "disc_ccm", "disc_ccm"),
     disc_chatcc("disc_chatcc", "disc_chatcc", "disc_chatcc"),

@@ -33,6 +33,7 @@ public class ItemHandler {
         ItemIDs.disc_bohemrhap.item = new BaseItemRecordClass("disc_bohemrhap", JCRec.jcrecCreativeTab);
         ItemIDs.disc_boogiewonder.item = new BaseItemRecordClass("disc_boogiewonder", JCRec.jcrecCreativeTab);
         ItemIDs.disc_builtcity.item = new BaseItemRecordClass("disc_builtcity", JCRec.jcrecCreativeTab);
+        ItemIDs.disc_buring4u.item = new BaseItemRecordClass("disc_buring4u", JCRec.jcrecCreativeTab);
         ItemIDs.disc_buttsecks.item = new BaseItemRecordClass("disc_buttsecks", JCRec.jcrecCreativeGames);
         ItemIDs.disc_ccm.item = new BaseItemRecordClass("disc_ccm", JCRec.jcrecCreativeTab);
         ItemIDs.disc_chatcc.item = new BaseItemRecordClass("disc_chatcc", JCRec.jcrecCreativeRailroad);
