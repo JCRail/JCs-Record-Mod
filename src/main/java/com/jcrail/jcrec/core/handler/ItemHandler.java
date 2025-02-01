@@ -55,7 +55,7 @@ public class ItemHandler {
         ItemIDs.disc_changes.item = new BaseItemRecordClass("disc_changes", JCRec.jcrecCreativeTab);
         ItemIDs.disc_chatcc.item = new BaseItemRecordClass("disc_chatcc", JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_citynewo.item = new BaseItemRecordClass("disc_citynewo", JCRec.jcrecCreativeRailroad);
-        ItemIDs.disc_comeeileem.item = new BaseItemRecordClass("disc_comeeileem", JCRec.jcrecCreativeTab);
+        ItemIDs.disc_comeeilieen.item = new BaseItemRecordClass("disc_comeeilieen", JCRec.jcrecCreativeTab);
         ItemIDs.disc_comelove.item = new BaseItemRecordClass("disc_comelove", JCRec.jcrecCreativeTab);
         ItemIDs.disc_conjunc.item = new BaseItemRecordClass("disc_conjunc", JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_dangerzone.item = new BaseItemRecordClass("disc_dangerzone", JCRec.jcrecCreativeTab);
@@ -121,7 +121,7 @@ public class ItemHandler {
         ItemIDs.disc_liveanddie.item = new BaseItemRecordClass("disc_liveanddie", JCRec.jcrecCreativeTab);
         ItemIDs.disc_livinprayer.item = new BaseItemRecordClass("disc_livinprayer", JCRec.jcrecCreativeTab);
         ItemIDs.disc_logicsong.item = new BaseItemRecordClass("disc_logicsong", JCRec.jcrecCreativeTab);
-        ItemIDs.disc_longtime.item = new BaseItemRecordClass("disc_longtime", JCRec.jcrecCreativeTab);
+        ItemIDs.disc_forelongtime.item = new BaseItemRecordClass("disc_forelongtime", JCRec.jcrecCreativeTab);
         ItemIDs.disc_losereligion.item = new BaseItemRecordClass("disc_losereligion", JCRec.jcrecCreativeTab);
         ItemIDs.disc_loveyou.item = new BaseItemRecordClass("disc_loveyou", JCRec.jcrecCreativeGames);
         ItemIDs.disc_magicman.item = new BaseItemRecordClass("disc_magicman", JCRec.jcrecCreativeTab);
@@ -227,6 +227,14 @@ public class ItemHandler {
         ItemIDs.disc_youarepirate.item = new BaseItemRecordClass("disc_youarepirate", JCRec.jcrecCreativeMemes);
         ItemIDs.disc_yougetyougive.item = new BaseItemRecordClass("disc_yougetyougive", JCRec.jcrecCreativeTab);
         ItemIDs.disc_yummy.item = new BaseItemRecordClass("disc_yummy", JCRec.jcrecCreativeGames);
+        ItemIDs.disc_blindinglights.item = new BaseItemRecordClass("disc_blindinglights", JCRec.jcrecCreativeTab);
+        ItemIDs.disc_cabinetman.item = new BaseItemRecordClass("disc_cabinetman", JCRec.jcrecCreativeTab);
+        ItemIDs.disc_redesignlgoo.item = new BaseItemRecordClass("disc_redesignlogo", JCRec.jcrecCreativeTab);
+        ItemIDs.disc_reaganomics.item = new BaseItemRecordClass("disc_reaganomics", JCRec.jcrecCreativeTab);
+        ItemIDs.disc_shesohigh.item = new BaseItemRecordClass("disc_shesohigh", JCRec.jcrecCreativeTab);
+        ItemIDs.disc_sweetbod.item = new BaseItemRecordClass("disc_sweetbod", JCRec.jcrecCreativeTab);
+        ItemIDs.disc_twotrucks.item = new BaseItemRecordClass("disc_twotrucks", JCRec.jcrecCreativeTab);
+        ItemIDs.disc_yourparty.item = new BaseItemRecordClass("disc_yourparty", JCRec.jcrecCreativeTab);
 
         for (ItemIDs items : ItemIDs.values())
         {
