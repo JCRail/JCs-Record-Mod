@@ -235,7 +235,7 @@ public class ItemHandler {
         ItemIDs.disc_yougetyougive.item = new BaseItemRecordClass("disc_yougetyougive", JCRec.jcrecCreative90s);
         ItemIDs.disc_yourparty.item = new BaseItemRecordClass("disc_yourparty", JCRec.jcrecCreativeModern);
         ItemIDs.disc_yummy.item = new BaseItemRecordClass("disc_yummy", JCRec.jcrecCreativeGames);
-        ItemIDs.disc_usanthem.item = new BaseItemRecordClass("disc_usanthem", JCRec.jcrecCreativeTracks);
+        ItemIDs.disc_usanthem.item = new BaseItemRecordClass(ItemIDs.disc_usanthem, JCRec.jcrecCreativeTracks);
         for (ItemIDs items : ItemIDs.values())
         {
             if (items.item == null)
