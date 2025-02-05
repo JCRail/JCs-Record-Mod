@@ -35,27 +35,27 @@ public class JCRec
 
         jcrecCreativeOld = new CreativeTabs("JCRecords - The Old Tracks") {
             public Item getTabIconItem() {
-                return ItemIDs.disc_akwts.item; }
+                return ItemIDs.disc_highwayhell.item; }
             public String getTranslatedTabLabel() { return "JCRecords - The Old Tracks"; }};
 
         jcrecCreative70s = new CreativeTabs("JCRecords - The 70s Tracks") {
             public Item getTabIconItem() {
-                return ItemIDs.disc_akwts.item; }
+                return ItemIDs.disc_ballblitz.item; }
             public String getTranslatedTabLabel() { return "JCRecords - The 70s Tracks"; }};
 
         jcrecCreative80s = new CreativeTabs("JCRecords - The 80s Tracks") {
             public Item getTabIconItem() {
-                return ItemIDs.disc_akwts.item; }
+                return ItemIDs.disc_barra.item; }
             public String getTranslatedTabLabel() { return "JCRecords - The 80s Tracks"; }};
 
         jcrecCreative90s = new CreativeTabs("JCRecords - The 90s Tracks") {
             public Item getTabIconItem() {
-                return ItemIDs.disc_akwts.item; }
+                return ItemIDs.disc_blue.item; }
             public String getTranslatedTabLabel() { return "JCRecords - The 90s Tracks"; }};
 
         jcrecCreativeModern = new CreativeTabs("JCRecords - The Modern Tracks") {
             public Item getTabIconItem() {
-                return ItemIDs.disc_akwts.item; }
+                return ItemIDs.disc_fallingtodo.item; }
             public String getTranslatedTabLabel() { return "JCRecords - The Modern Tracks"; }};
 
         jcrecCreativeGames = new CreativeTabs("JCRecords - The Game Tracks") {
