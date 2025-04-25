@@ -6,6 +6,7 @@ public enum ItemIDs {
 
     //itemClassName: Name of class.java file    iconName: Name of icon    itemName: Name of item internally.
 
+
     disc_16tons("disc_16tons", "disc_black", "disc_16tons"),
     disc_99english("disc_99english", "disc_lightblue", "disc_99english"),
     disc_99german("disc_99german", "disc_lightblue", "disc_99german"),
@@ -105,6 +106,7 @@ public enum ItemIDs {
     disc_howcraft("disc_howcraft", "disc_howcraft", "disc_howcraft"),
     disc_humbn("disc_humbn", "disc_humbn", "disc_humbn"),
     disc_hungrywolf("disc_hungrywolf", "disc_magenta", "disc_hungrywolf"),
+    disc_innocence("disc_innocence", "disc_white", "disc_innocence"),
     disc_izrainbow("disc_izrainbow", "disc_rainbow", "disc_izrainbow"),
     disc_jessiegirl("disc_jessiegirl", "disc_yellow", "disc_jessiegirl"),
     disc_johnfreeman09("disc_johnfreeman09", "disc_johnfreeman09", "disc_johnfreeman09"),
@@ -199,6 +201,7 @@ public enum ItemIDs {
     disc_stillstanding("disc_stillstanding", "disc_stillstanding", "disc_stillstanding"),
     disc_stridebreak("disc_stridebreak", "disc_brown", "disc_stridebreak"),
     disc_sunglasses("disc_sunglasses", "disc_black", "disc_sunglasses"),
+    disc_superfeeling("disc_superfeeling", "disc_black", "disc_superfeeling"),
     disc_surrender("disc_surrender", "disc_blackwhite", "disc_surrender"),
     disc_sweetalabama("disc_sweetalabama", "disc_redwhiteblue", "disc_sweetalabama"),
     disc_sweetbod("disc_sweetbod", "disc_redblack", "disc_sweetbod"),
@@ -210,6 +213,7 @@ public enum ItemIDs {
     disc_thanosbeatbox("disc_thanosbeatbox", "disc_thanosbeatbox", "disc_thanosbeatbox"),
     disc_thechain("disc_thechain", "disc_blackwhite", "disc_thechain"),
     disc_thejoke("disc_thejoke", "disc_green", "disc_thejoke"),
+    disc_thinkingofyou("disc_thinkingofyou", "disc_white", "disc_thinkingofyou"),
     disc_thriller("disc_thriller", "disc_brown", "disc_thriller"),
     disc_thunderstruck("disc_thunderstruck", "disc_redgrey", "disc_thunderstruck"),
     disc_tnt("disc_tnt", "disc_tnt", "disc_tnt"),

@@ -8,6 +8,7 @@ public class ItemHandler {
 
     public static void initItemRegister(){
         
+
         ItemIDs.disc_16tons.item = new BaseItemRecordClass(ItemIDs.disc_16tons,  JCRec.jcrecCreativeOld);
         ItemIDs.disc_99english.item = new BaseItemRecordClass(ItemIDs.disc_99english, JCRec.jcrecCreative80s);
         ItemIDs.disc_99german.item = new BaseItemRecordClass(ItemIDs.disc_99english, JCRec.jcrecCreative80s);
@@ -107,6 +108,7 @@ public class ItemHandler {
         ItemIDs.disc_howcraft.item = new BaseItemRecordClass(ItemIDs.disc_howcraft, JCRec.jcrecCreativeGames);
         ItemIDs.disc_humbn.item = new BaseItemRecordClass(ItemIDs.disc_humbn, JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_hungrywolf.item = new BaseItemRecordClass(ItemIDs.disc_hungrywolf, JCRec.jcrecCreative80s);
+        ItemIDs.disc_innocence.item = new BaseItemRecordClass(ItemIDs.disc_innocence, JCRec.jcrecCreative80s);
         ItemIDs.disc_izrainbow.item = new BaseItemRecordClass(ItemIDs.disc_izrainbow, JCRec.jcrecCreative90s);
         ItemIDs.disc_jessiegirl.item = new BaseItemRecordClass(ItemIDs.disc_jessiegirl, JCRec.jcrecCreative80s);
         ItemIDs.disc_johnfreeman09.item = new BaseItemRecordClass(ItemIDs.disc_johnfreeman09, JCRec.jcrecCreativeGames);
@@ -201,6 +203,7 @@ public class ItemHandler {
         ItemIDs.disc_stillstanding.item = new BaseItemRecordClass(ItemIDs.disc_stillstanding, JCRec.jcrecCreative80s);
         ItemIDs.disc_stridebreak.item = new BaseItemRecordClass(ItemIDs.disc_stridebreak, JCRec.jcrecCreative80s);
         ItemIDs.disc_sunglasses.item = new BaseItemRecordClass(ItemIDs.disc_sunglasses, JCRec.jcrecCreative80s);
+        ItemIDs.disc_superfeeling.item = new BaseItemRecordClass(ItemIDs.disc_superfeeling, JCRec.jcrecCreative80s);
         ItemIDs.disc_surrender.item = new BaseItemRecordClass(ItemIDs.disc_surrender, JCRec.jcrecCreative70s);
         ItemIDs.disc_sweetalabama.item = new BaseItemRecordClass(ItemIDs.disc_sweetalabama, JCRec.jcrecCreative70s);
         ItemIDs.disc_sweetbod.item = new BaseItemRecordClass(ItemIDs.disc_sweetbod, JCRec.jcrecCreativeModern);
@@ -212,6 +215,7 @@ public class ItemHandler {
         ItemIDs.disc_thanosbeatbox.item = new BaseItemRecordClass(ItemIDs.disc_thanosbeatbox, JCRec.jcrecCreativeTracks);
         ItemIDs.disc_thechain.item = new BaseItemRecordClass(ItemIDs.disc_thechain, JCRec.jcrecCreative70s);
         ItemIDs.disc_thejoke.item = new BaseItemRecordClass(ItemIDs.disc_thejoke, JCRec.jcrecCreative70s);
+        ItemIDs.disc_thinkingofyou.item = new BaseItemRecordClass(ItemIDs.disc_thinkingofyou, JCRec.jcrecCreative80s);
         ItemIDs.disc_thriller.item = new BaseItemRecordClass(ItemIDs.disc_thriller, JCRec.jcrecCreative80s);
         ItemIDs.disc_thunderstruck.item = new BaseItemRecordClass(ItemIDs.disc_thunderstruck, JCRec.jcrecCreative90s);
         ItemIDs.disc_tnt.item = new BaseItemRecordClass(ItemIDs.disc_tnt, JCRec.jcrecCreativeGames);
