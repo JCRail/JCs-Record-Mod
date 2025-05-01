@@ -58,7 +58,7 @@ public class ItemHandler {
         ItemIDs.disc_changes.item = new BaseItemRecordClass(ItemIDs.disc_changes, JCRec.jcrecCreative70s);
         ItemIDs.disc_chatcc.item = new BaseItemRecordClass(ItemIDs.disc_chatcc, JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_citynewo.item = new BaseItemRecordClass(ItemIDs.disc_citynewo, JCRec.jcrecCreativeRailroad);
-        ItemIDs.disc_comeeilieen.item = new BaseItemRecordClass(ItemIDs.disc_comeeilieen, JCRec.jcrecCreative80s);
+        ItemIDs.disc_comeeileen.item = new BaseItemRecordClass(ItemIDs.disc_comeeileen, JCRec.jcrecCreative80s);
         ItemIDs.disc_comelove.item = new BaseItemRecordClass(ItemIDs.disc_comelove, JCRec.jcrecCreative70s);
         ItemIDs.disc_conjunc.item = new BaseItemRecordClass(ItemIDs.disc_conjunc, JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_dangerzone.item = new BaseItemRecordClass(ItemIDs.disc_dangerzone, JCRec.jcrecCreative80s);

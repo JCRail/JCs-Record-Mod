@@ -56,7 +56,7 @@ public enum ItemIDs {
     disc_changes("disc_changes", "disc_white", "disc_changes"),
     disc_chatcc("disc_chatcc", "disc_chatcc", "disc_chatcc"),
     disc_citynewo("disc_citynewo", "disc_citynewo", "disc_citynewo"),
-    disc_comeeilieen("disc_comeeilieen", "disc_yellow", "disc_comeeilieen"),
+    disc_comeeileen("disc_comeeileen", "disc_yellow", "disc_comeeileen"),
     disc_comelove("disc_comelove", "disc_red", "disc_comelove"),
     disc_conjunc("disc_conjunc", "disc_conjunc", "disc_conjunc"),
     disc_dangerzone("disc_dangerzone", "disc_red", "disc_dangerzone"),
