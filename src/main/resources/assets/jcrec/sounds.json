@@ -229,5 +229,8 @@
   "records.disc_youarepirate": {"category": "master", "sounds": [{"name": "disc_youarepirate","stream": true}]},
   "records.disc_yougetyougive": {"category": "master", "sounds": [{"name": "disc_yougetyougive","stream": true}]},
   "records.disc_yourparty": {"category": "master", "sounds": [{"name": "disc_yourparty","stream": true}]},
+  "records.disc_dreams": {"category": "master", "sounds": [{"name": "disc_dreams","stream": true}]},
+  "records.disc_littlelies": {"category": "master", "sounds": [{"name": "disc_littlelies","stream": true}]},
+  "records.disc_runtoyou": {"category": "master", "sounds": [{"name": "disc_runtoyou","stream": true}]},
   "records.disc_yummy": {"category": "master", "sounds": [{"name": "disc_yummy","stream": true}]}
 }

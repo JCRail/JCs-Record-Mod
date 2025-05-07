@@ -70,6 +70,7 @@ public class ItemHandler {
         ItemIDs.disc_dontmine.item = new BaseItemRecordClass(ItemIDs.disc_dontmine, JCRec.jcrecCreativeGames);
         ItemIDs.disc_downunder.item = new BaseItemRecordClass(ItemIDs.disc_downunder, JCRec.jcrecCreative80s);
         ItemIDs.disc_dragodintei.item = new BaseItemRecordClass(ItemIDs.disc_dragodintei, JCRec.jcrecCreativeModern);
+        ItemIDs.disc_dreams.item = new BaseItemRecordClass(ItemIDs.disc_dreams, JCRec.jcrecCreative70s);
         ItemIDs.disc_eastbdown.item = new BaseItemRecordClass(ItemIDs.disc_eastbdown, JCRec.jcrecCreative70s);
         ItemIDs.disc_electric.item = new BaseItemRecordClass(ItemIDs.disc_electric, JCRec.jcrecCreative80s);
         ItemIDs.disc_electromeme.item = new BaseItemRecordClass(ItemIDs.disc_electromeme, JCRec.jcrecCreativeTracks);
@@ -123,6 +124,7 @@ public class ItemHandler {
         ItemIDs.disc_lifeonmars.item = new BaseItemRecordClass(ItemIDs.disc_lifeonmars, JCRec.jcrecCreative70s);
         ItemIDs.disc_liferrtoh.item = new BaseItemRecordClass(ItemIDs.disc_liferrtoh, JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_littleage.item = new BaseItemRecordClass(ItemIDs.disc_littleage, JCRec.jcrecCreativeModern);
+        ItemIDs.disc_littlelies.item = new BaseItemRecordClass(ItemIDs.disc_littlelies, JCRec.jcrecCreative80s);
         ItemIDs.disc_liveanddie.item = new BaseItemRecordClass(ItemIDs.disc_liveanddie, JCRec.jcrecCreative70s);
         ItemIDs.disc_livinprayer.item = new BaseItemRecordClass(ItemIDs.disc_livinprayer, JCRec.jcrecCreative80s);
         ItemIDs.disc_logicsong.item = new BaseItemRecordClass(ItemIDs.disc_logicsong, JCRec.jcrecCreative70s);
@@ -179,6 +181,7 @@ public class ItemHandler {
         ItemIDs.disc_rubberband.item = new BaseItemRecordClass(ItemIDs.disc_rubberband, JCRec.jcrecCreativeModern);
         ItemIDs.disc_ruleworld.item = new BaseItemRecordClass(ItemIDs.disc_ruleworld, JCRec.jcrecCreative80s);
         ItemIDs.disc_runnin90.item = new BaseItemRecordClass(ItemIDs.disc_runnin90, JCRec.jcrecCreative90s);
+        ItemIDs.disc_runtoyou.item = new BaseItemRecordClass(ItemIDs.disc_runtoyou, JCRec.jcrecCreative80s);
         ItemIDs.disc_screwnether.item = new BaseItemRecordClass(ItemIDs.disc_screwnether, JCRec.jcrecCreativeGames);
         ItemIDs.disc_seaboard.item = new BaseItemRecordClass(ItemIDs.disc_seaboard, JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_september.item = new BaseItemRecordClass(ItemIDs.disc_september, JCRec.jcrecCreative70s);
