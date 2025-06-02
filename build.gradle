@@ -25,7 +25,7 @@ apply plugin: 'idea'
 sourceCompatibility = targetCompatibility = "1.7"
 compileJava { sourceCompatibility = targetCompatibility = "1.7" }
 
-version = "1.0.1"
+version = "1.1.0"
 group= "com.jcrail.jcrec" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = "jcrec"
 
