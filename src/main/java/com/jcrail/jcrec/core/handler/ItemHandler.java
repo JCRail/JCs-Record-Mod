@@ -7,7 +7,6 @@ import cpw.mods.fml.common.registry.GameRegistry;
 public class ItemHandler {
 
     public static void initItemRegister(){
-        
 
         ItemIDs.disc_aaa.item = new BaseItemRecordClass(ItemIDs.disc_aaa, JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_aintnobody.item = new BaseItemRecordClass(ItemIDs.disc_aintnobody, JCRec.jcrecCreativeTracks);
@@ -16,13 +15,16 @@ public class ItemHandler {
         ItemIDs.disc_beepblock.item = new BaseItemRecordClass(ItemIDs.disc_beepblock, JCRec.jcrecCreativeGames);
         ItemIDs.disc_breaktoad.item = new BaseItemRecordClass(ItemIDs.disc_breaktoad, JCRec.jcrecCreativeTracks);
         ItemIDs.disc_buttsecks.item = new BaseItemRecordClass(ItemIDs.disc_buttsecks, JCRec.jcrecCreativeGames);
+        ItemIDs.disc_canadatrilogy.item = new BaseItemRecordClass(ItemIDs.disc_canadatrilogy, JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_caseyjones.item = new BaseItemRecordClass(ItemIDs.disc_caseyjones, JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_chatcc.item = new BaseItemRecordClass(ItemIDs.disc_chatcc, JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_citynewo.item = new BaseItemRecordClass(ItemIDs.disc_citynewo, JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_conjunc.item = new BaseItemRecordClass(ItemIDs.disc_conjunc, JCRec.jcrecCreativeRailroad);
+        ItemIDs.disc_crazytrain.item = new BaseItemRecordClass(ItemIDs.disc_crazytrain, JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_dontmine.item = new BaseItemRecordClass(ItemIDs.disc_dontmine, JCRec.jcrecCreativeGames);
         ItemIDs.disc_electromeme.item = new BaseItemRecordClass(ItemIDs.disc_electromeme, JCRec.jcrecCreativeTracks);
         ItemIDs.disc_fallenkingdom.item = new BaseItemRecordClass(ItemIDs.disc_fallenkingdom, JCRec.jcrecCreativeGames);
+        ItemIDs.disc_familyguy.item = new BaseItemRecordClass(ItemIDs.disc_familyguy, JCRec.jcrecCreativeTracks);
         ItemIDs.disc_fmail.item = new BaseItemRecordClass(ItemIDs.disc_fmail, JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_folsomblues.item = new BaseItemRecordClass(ItemIDs.disc_folsomblues, JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_freight.item = new BaseItemRecordClass(ItemIDs.disc_freight, JCRec.jcrecCreativeRailroad);
@@ -31,15 +33,18 @@ public class ItemHandler {
         ItemIDs.disc_howcraft.item = new BaseItemRecordClass(ItemIDs.disc_howcraft, JCRec.jcrecCreativeGames);
         ItemIDs.disc_humbn.item = new BaseItemRecordClass(ItemIDs.disc_humbn, JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_johnfreeman09.item = new BaseItemRecordClass(ItemIDs.disc_johnfreeman09, JCRec.jcrecCreativeGames);
+        ItemIDs.disc_katymule.item = new BaseItemRecordClass(ItemIDs.disc_katymule, JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_kinishes.item = new BaseItemRecordClass(ItemIDs.disc_kinishes, JCRec.jcrecCreativeGames);
         ItemIDs.disc_liferrtoh.item = new BaseItemRecordClass(ItemIDs.disc_liferrtoh, JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_loveyou.item = new BaseItemRecordClass(ItemIDs.disc_loveyou, JCRec.jcrecCreativeGames);
+        ItemIDs.disc_mcdonaldspent.item = new BaseItemRecordClass(ItemIDs.disc_mcdonaldspent, JCRec.jcrecCreativeTracks);
         ItemIDs.disc_midflyer.item = new BaseItemRecordClass(ItemIDs.disc_midflyer, JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_moregun.item = new BaseItemRecordClass(ItemIDs.disc_moregun, JCRec.jcrecCreativeGames);
         ItemIDs.disc_movinon.item = new BaseItemRecordClass(ItemIDs.disc_movinon, JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_mytrains.item = new BaseItemRecordClass(ItemIDs.disc_mytrains, JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_nsfunction.item = new BaseItemRecordClass(ItemIDs.disc_nsfunction, JCRec.jcrecCreativeRailroad);
-        ItemIDs.disc_obr.item = new BaseItemRecordClass(ItemIDs.disc_obr, JCRec.jcrecCreativeRailroad);;
+        ItemIDs.disc_obr.item = new BaseItemRecordClass(ItemIDs.disc_obr, JCRec.jcrecCreativeRailroad);
+        ItemIDs.disc_ollienorth.item = new BaseItemRecordClass(ItemIDs.disc_ollienorth, JCRec.jcrecCreativeTracks);
         ItemIDs.disc_onatsf.item = new BaseItemRecordClass(ItemIDs.disc_onatsf, JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_onrailroad.item = new BaseItemRecordClass(ItemIDs.disc_onrailroad, JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_orangebs.item = new BaseItemRecordClass(ItemIDs.disc_orangebs, JCRec.jcrecCreativeRailroad);
@@ -62,6 +67,7 @@ public class ItemHandler {
         ItemIDs.disc_thanosbeatbox.item = new BaseItemRecordClass(ItemIDs.disc_thanosbeatbox, JCRec.jcrecCreativeTracks);
         ItemIDs.disc_tnt.item = new BaseItemRecordClass(ItemIDs.disc_tnt, JCRec.jcrecCreativeGames);
         ItemIDs.disc_traintoh.item = new BaseItemRecordClass(ItemIDs.disc_traintoh, JCRec.jcrecCreativeRailroad);
+        ItemIDs.disc_uniondixie.item = new BaseItemRecordClass(ItemIDs.disc_uniondixie, JCRec.jcrecCreativeTracks);
         ItemIDs.disc_uproll.item = new BaseItemRecordClass(ItemIDs.disc_uproll, JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_usanthem.item = new BaseItemRecordClass(ItemIDs.disc_usanthem, JCRec.jcrecCreativeTracks);
         ItemIDs.disc_wabashcannon.item = new BaseItemRecordClass(ItemIDs.disc_wabashcannon, JCRec.jcrecCreativeRailroad);
