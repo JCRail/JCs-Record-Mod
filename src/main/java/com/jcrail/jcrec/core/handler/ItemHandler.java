@@ -42,6 +42,7 @@ public class ItemHandler {
         ItemIDs.disc_moregun.item = new BaseItemRecordClass(ItemIDs.disc_moregun, JCRec.jcrecCreativeGames);
         ItemIDs.disc_movinon.item = new BaseItemRecordClass(ItemIDs.disc_movinon, JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_mytrains.item = new BaseItemRecordClass(ItemIDs.disc_mytrains, JCRec.jcrecCreativeRailroad);
+        ItemIDs.disc_nowgone.item = new BaseItemRecordClass(ItemIDs.disc_nowgone, JCRec.jcrecCreativeGames);
         ItemIDs.disc_nsfunction.item = new BaseItemRecordClass(ItemIDs.disc_nsfunction, JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_obr.item = new BaseItemRecordClass(ItemIDs.disc_obr, JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_ollienorth.item = new BaseItemRecordClass(ItemIDs.disc_ollienorth, JCRec.jcrecCreativeTracks);
@@ -57,6 +58,7 @@ public class ItemHandler {
         ItemIDs.disc_revenge.item = new BaseItemRecordClass(ItemIDs.disc_revenge, JCRec.jcrecCreativeGames);;
         ItemIDs.disc_rizznight.item = new BaseItemRecordClass(ItemIDs.disc_rizznight, JCRec.jcrecCreativeTracks);
         ItemIDs.disc_rosahummer.item = new BaseItemRecordClass(ItemIDs.disc_rosahummer, JCRec.jcrecCreativeTracks);
+        ItemIDs.disc_samsungtune.item = new BaseItemRecordClass(ItemIDs.disc_samsungtune, JCRec.jcrecCreativeTracks);
         ItemIDs.disc_screwnether.item = new BaseItemRecordClass(ItemIDs.disc_screwnether, JCRec.jcrecCreativeGames);
         ItemIDs.disc_seaboard.item = new BaseItemRecordClass(ItemIDs.disc_seaboard, JCRec.jcrecCreativeRailroad);
         ItemIDs.disc_sfatw.item = new BaseItemRecordClass(ItemIDs.disc_sfatw, JCRec.jcrecCreativeRailroad);
