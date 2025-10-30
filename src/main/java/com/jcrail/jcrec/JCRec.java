@@ -16,7 +16,7 @@ public class JCRec
 {
     public static final String MODID = "jcrec";
     public static final String NAME = "JCRecords";
-    public static final String VERSION = "1.1.0";
+    public static final String VERSION = "1.1.1";
     
     public static CreativeTabs jcrecCreativeGames;
     public static CreativeTabs jcrecCreativeRailroad;
